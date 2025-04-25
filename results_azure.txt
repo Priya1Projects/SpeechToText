@@ -1,0 +1,46 @@
+run 1:
+Transcribing: 93.wav                                                                                                                                                                               
+Transcribing: store in hash table Read me the news headlines.                                                                                                                                      
+Original: Read me the news headlines.                                                                                                                                                              
+Transcription: No speech could be recognized                                                                                                                                                       
+                                                                                                                                                                                                   
+Transcribing: 94.wav                                                                                                                                                                               
+Transcribing: store in hash table What's the capital of Australia?                                                                                                                                 
+Original: What's the capital of Australia?                                                                                                                                                         
+Transcription: What's the capital of Australia?                                                                                                                                                    
+                                                                                                                                                                                                   
+Transcribing: 95.wav                                                                                                                                                                               
+Transcribing: store in hash table Send an email to Sarah asking about the project update.                                                                                                          
+Original: Send an email to Sarah asking about the project update.                                                                                                                                  
+Transcription: An e-mail to Sarah asking about the project update.                                                                                                                                 
+                                                                                                                                                                                                   
+Transcribing: 96.wav                                                                                                                                                                               
+Transcribing: store in hash table What does "serendipity" mean?                                                                                                                                    
+Original: What does "serendipity" mean?                                                                                                                                                            
+Transcription: No speech could be recognized                                                                                                                                                       
+                                                                                                                                                                                                   
+Transcribing: 97.wav                                                                                                                                                                               
+Transcribing: store in hash table What's the price of Bitcoin?                                                                                                                                     
+Original: What's the price of Bitcoin?                                                                                                                                                             
+Transcription: No speech could be recognized                                                                                                                                                       
+                                                                                                                                                                                                   
+Transcribing: 98.wav                                                                                                                                                                               
+Transcribing: store in hash table Add "water the plants" to my reminders.                                                                                                                          
+Original: Add "water the plants" to my reminders.                                                                                                                                                  
+Transcription: No speech could be recognized                                                                                                                                                       
+                                                                                                                                                                                                   
+Transcribing: 99.wav                                                                                                                                                                               
+Transcribing: store in hash table What's the highest mountain in the world?                                                                                                                        
+Original: What's the highest mountain in the world?                                                                                                                                                
+Transcription: No speech could be recognized                                                                                                                                                       
+                                                                                                                                                                                                   
+Transcribing: 100.wav                                                                                                                                                                              
+Transcribing: store in hash table What's the boiling point of water?                                                                                                                               
+Original: What's the boiling point of water?                                                                                                                                                       
+Transcription: The boiling point of water.                                                                                                                                                         
+                                                                                                                                                                                                   
+--- Overall Evaluation Metrics ---                                                                                                                                                                 
+Overall Word Error Rate (WER): 0.3621                                                                                                                                                              
+Overall Character Error Rate (CER): 0.2787                                                                                                                                                         
+Overall BLEU Score: 0.5613                                                                                                                                                                         
+Potential for Overall Hallucinations (Threshold=0.6): True  

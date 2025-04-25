@@ -1,0 +1,5 @@
+--- Overall Evaluation Metrics ---                                                                                                                                                                 
+Overall Word Error Rate (WER): 0.0881                                                                                                                                                              
+Overall Character Error Rate (CER): 0.0569                                                                                                                                                         
+Overall BLEU Score: 0.8105                                                                                                                                                                         
+Potential for Overall Hallucinations (Threshold=0.6): False    
